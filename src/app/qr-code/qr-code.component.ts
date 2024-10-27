@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
   styleUrl: './qr-code.component.css'
 })
 export class QrCodeComponent {
-  navigateToLandingPage = 'http://localhost:4200/landingPage'
+  navigateToLandingPage = 'https://luxury-dusk-cc961a.netlify.app/landingPage'
 
 }
